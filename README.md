@@ -55,6 +55,5 @@ This project is a C++ implementation of the popular 2048 game. The game allows p
 - `draw()`: Renders the game board
 - `gameover()`, `win()`: Handle endgame scenarios
 
-## Author
-- [Basem Walid](https://github.com/basemw0)
+
 
